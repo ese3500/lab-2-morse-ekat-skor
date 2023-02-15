@@ -229,9 +229,6 @@ int translate()
                 memset(entry, 0, strlen(entry));
                 i += 100;
 
-                sprintf(String, "K   A   T ");
-                UART_putstring(String);
-                _delay_ms(1000);
             }
             else;
         }
@@ -266,3 +263,4 @@ int main(void)
 
     }
 }
+
