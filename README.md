@@ -1,2 +1,3 @@
-# lab2_morse_skeleton
-Skeleton code that's imported for Lab 2: Morse
+# lab2_morse
+
+LAB 2 for ESE 350 at UPenn 
